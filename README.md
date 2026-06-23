@@ -17,7 +17,7 @@ Ambiguous symptom calls
 Emergency escalation
 Patient corrections and interruptions
 
-Tech Stack
+Tech Stack:
 Python,
 LiveKit Agents,
 LiveKit SIP / Dispatch,
