@@ -16,15 +16,13 @@ Office logistics, such as address, hours, parking, and Saturday availability
 Ambiguous symptom calls
 Emergency escalation
 Patient corrections and interruptions
-
-Tech Stack:
-Python,
-LiveKit Agents,
-LiveKit SIP / Dispatch,
-Telnyx outbound SIP trunk,
-OpenAI Realtime voice model,
+Tech Stack
+Python
+LiveKit Agents
+LiveKit SIP / Dispatch
+Telnyx outbound SIP trunk
+OpenAI Realtime voice model
 LiveKit Agent Observability for recordings and transcripts
-
 How It Works
 A scenario is selected, such as s03 for rescheduling an appointment.
 The Python agent joins a LiveKit room.
@@ -36,31 +34,31 @@ The transcript and recording are reviewed for bugs or quality issues.
 Final Evidence
 Recordings
 calls/final_recordings/
-s01-new-patient-appointment.oga
-s02-weekend-appointment-request.oga
-s03-reschedule-appointment.oga
-s04-cancel-appointment.oga
-s05-medication-refill.oga
-s06-insurance-question.oga
-s07-office-logistics.oga
-s08-ambiguous-symptoms.oga
-s09-emergency-escalation.oga
-s10-correction-interruption.oga
+  s01-new-patient-appointment.oga
+  s02-weekend-appointment-request.oga
+  s03-reschedule-appointment.oga
+  s04-cancel-appointment.oga
+  s05-medication-refill.oga
+  s06-insurance-question.oga
+  s07-office-logistics.oga
+  s08-ambiguous-symptoms.oga
+  s09-emergency-escalation.oga
+  s10-correction-interruption.oga
 Transcripts
 calls/final_transcripts/
-s01-new-patient-appointment.txt
-s02-weekend-appointment-request.txt
-s03-reschedule-appointment.txt
-s04-cancel-appointment.txt
-s05-medication-refill.txt
-s06-insurance-question.txt
-s07-office-logistics.txt
-s08-ambiguous-symptoms.txt
-s09-emergency-escalation.txt
-s10-correction-interruption.txt
+  s01-new-patient-appointment.txt
+  s02-weekend-appointment-request.txt
+  s03-reschedule-appointment.txt
+  s04-cancel-appointment.txt
+  s05-medication-refill.txt
+  s06-insurance-question.txt
+  s07-office-logistics.txt
+  s08-ambiguous-symptoms.txt
+  s09-emergency-escalation.txt
+  s10-correction-interruption.txt
 Report
 reports/
-BUG_REPORT.md
+  BUG_REPORT.md
 Key Findings Summary
 
 The test calls found several recurring issues:
@@ -91,16 +89,16 @@ Secrets are stored locally in .env.local and are not committed to the repository
 
 Required variables include:
 
-LIVEKIT_URL,
-LIVEKIT_API_KEY,
-LIVEKIT_API_SECRET,
-OPENAI_API_KEY,
-SIP_TRUNK_ID,
-CALLER_NUMBER,
-TEST_PHONE_NUMBER,
-AGENT_NAME,
-OPENAI_REALTIME_MODEL,
-OPENAI_REALTIME_VOICE,
+LIVEKIT_URL
+LIVEKIT_API_KEY
+LIVEKIT_API_SECRET
+OPENAI_API_KEY
+SIP_TRUNK_ID
+CALLER_NUMBER
+TEST_PHONE_NUMBER
+AGENT_NAME
+OPENAI_REALTIME_MODEL
+OPENAI_REALTIME_VOICE
 Running a Scenario
 
 Start the worker:
