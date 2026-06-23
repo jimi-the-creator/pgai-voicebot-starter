@@ -18,11 +18,11 @@ Emergency escalation
 Patient corrections and interruptions
 
 Tech Stack
-Python
-LiveKit Agents
-LiveKit SIP / Dispatch
-Telnyx outbound SIP trunk
-OpenAI Realtime voice model
+Python,
+LiveKit Agents,
+LiveKit SIP / Dispatch,
+Telnyx outbound SIP trunk,
+OpenAI Realtime voice model,
 LiveKit Agent Observability for recordings and transcripts
 
 How It Works
