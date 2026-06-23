@@ -1,0 +1,5 @@
+# Architecture
+
+This project uses LiveKit Agents as the realtime voice orchestration layer. Each test call creates a LiveKit room, adds an outbound SIP participant pointed at the Pretty Good AI assessment test line, and runs a Python patient-simulator agent in the same room. The patient simulator uses a scenario-specific prompt to behave like a realistic caller while still steering the conversation toward a test objective such as scheduling, rescheduling, medication refill, insurance, office hours, or edge-case behavior.
+
+The system uses a cascaded voice pipeline rather than a pure speech-to-speech model because the challenge needs observability. Deepgram STT turns the test-line agent audio into text, Gemini generates the next patient utterance, and Deepgram TTS speaks the response back into the call. LiveKit session reports and transcripts are saved locally after each session, while call audio is downloaded from LiveKit recordings into the repository for submission. This design prioritizes lucid phone conversations, readable code, and clear evidence of iteration over unnecessary infrastructure.

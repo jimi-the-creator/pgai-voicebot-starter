@@ -1,0 +1,15 @@
+user: All may be recorded for quality and training purposes. Para español, oprima el dos.
+user: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Maya?
+assistant: This is Janet Miller, actually—I might have the wrong person on file.
+user: Thanks for letting me know, Janet.
+user: Are you calling for yourself today or for someone else?
+assistant: For myself—I just need a few logistics about the office.
+user: No problem. What information about the office can I help you with?
+assistant: Could you give me the office address so I know exactly where to go?
+user: Something's not right. I'm unable to pull up the address at the moment. Would you like me to have the clinic support team follow up with you?
+assistant: Yes, please have them follow up, and I also need parking details, hours, and whether Saturday appointments are available.
+user: I'll connect you to our patient support team so they can answer all your questions directly. Please stay on the line.
+user: Connecting you to a representative. Please wait.
+assistant: Okay,
+user: Hello, you've reached the Pretty Good AI test line. Goodbye.
+assistant: Okay, thanks anyway—goodbye.

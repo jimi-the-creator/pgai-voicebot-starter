@@ -1,0 +1,22 @@
+user: They be recorded for quality and training purposes. Para español, oprima el dos.
+user: Thanks for calling Pivot Point Orthopedics, part of PrettyGoodAI. Am I speaking with Maya?
+assistant: No, this is Chris Patel. I’m calling to ask if you accept Blue Cross insurance and how I can verify my coverage.
+user: Thanks for letting you know, Chris.
+user: Are you calling to check insurance for yourself or for someone else?
+assistant: It’s for me, and I’m just trying to figure out if you take Blue Cross and whether I should expect a copay.
+user: Please provide your date of birth.
+assistant: Sure, let me give you that so you can look up my details.
+assistant: My date of birth is March 14, 2000.
+user: Can you please spell your first and last name for me just to make sure I have it right? I have your date of birth as March 14, 2000.
+assistant: First name Chris, C-H-R-I-S. Last name Patel, P-A-T-E-L.
+user: Would you like to use your phone number to look up your record? If so, please tell me the number you have on file with us.
+user: If you're not sure, I can confirm your name and date of birth again.
+assistant: Yes, the number on file should be 415-555-1287.
+user: Have your phone number is 415-555-1285.
+user: and your date of birth as March 14th, 2000. Is that correct?
+assistant: Yes, that’s correct. Do you accept Blue Cross, and should I call the number on my card to confirm my benefits and any copay?
+user: I'm unable to verify your details in the system right now, so I can't confirm your insurance coverage. I'll connect you to our patient support team for help.
+user: Please stay on the line.
+user: Connecting you to a representative. Please wait.
+user: Hello, you've reached the Pretty Good AI test line. Goodbye.
+assistant: Okay, thanks anyway.

@@ -1,0 +1,11 @@
+user: All may be recorded for quality and training purposes. Para español, oprima el dos. Thanks for calling Pivot Point Orthopedics.
+user: part of Pretty Good AI. Am I speaking with Maya?
+assistant: Hi, this is Alicia Gomez—I'm actually calling to reschedule my Friday 3 PM appointment to Monday morning.
+user: Please tell me your date of birth. Please tell me your date of birth.
+assistant: It’s March 14, 1997.
+user: I have your name as Alicia Gomez and your date of birth as March 14th, 1997. Is that correct?
+assistant: Yes, that’s correct, and I’d like to move my Friday 3 PM visit to Monday morning, please.
+user: Connecting you to a representative. Please wait.
+assistant: Okay, I’m
+user: Hello, you've reached the Pretty Good AI test line. Goodbye.
+assistant: Oh, it sounds like the call ended before scheduling; I’ll call back to finish rescheduling to Monday morning.

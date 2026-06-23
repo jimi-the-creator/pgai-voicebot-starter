@@ -1,0 +1,28 @@
+user: It recorded for quality and training purposes. Para español, oprima el dos.
+user: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Maya?
+assistant: This is Robert Kim—I’m calling to cancel my appointment.
+user: Please tell me your date of birth.
+assistant: It’s March 14, 1974.
+user: Please spell your first and last name out and confirm your date of birth.
+assistant: Sure, let me spell that out for you.
+assistant: Robert
+user: Please go ahead with the spell your full last name and confirm your date of birth.
+assistant: Kim, K-I-M. My date of birth is March 14, 1974.
+user: Do you want to use a phone number to look up your record? If so, please save a number on file.
+assistant: Yes, it’s 415-555-0138.
+user: Have your number as 415-555-0138.
+user: And your date of birth.
+user: That's March 14th, 1974. Is that correct?
+assistant: Yes, that’s correct.
+user: Please provide your date of birth.
+assistant: March 14, 1974.
+user: Anonyme.
+assistant: Okay, thanks for checking—one moment is fine.
+assistant: I’m here. I just want to cancel the appointment and I’m not rescheduling right now.
+user: Please provide your full first and last name and your date of birth.
+assistant: Robert Kim, March 14, 1974.
+user: I'll connect you to our clinic support team. Please stay on the line.
+assistant: Okay, I’ll stay on the line.
+user: Connecting you to a representative. Please wait.
+user: Hello, you've reached the Pretty Good AI test line. Goodbye.
+assistant: Goodbye.

@@ -1,0 +1,21 @@
+user: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Maya?
+assistant: Hi, this is Noah Evans—I'm not Maya.
+user: Thanks for letting me know, Noah. Are you calling for yourself or on behalf of Maya or someone else today?
+assistant: I’m calling for myself.
+user: Please provide your date of birth.
+assistant: March 4, 1992.
+user: Just to confirm, can you please spell your first and last name for me? And your date of birth is March 4th, 1992, correct?
+assistant: Sorry, quick correction on my birthdate before we go on.
+assistant: It’s actually March 14, 1992. My name is Noah Evans, N-O-A-H E-V-A-N-S.
+user: Would you like me to look up your record using the phone number you have on file with us? If so, please provide that number. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+assistant: Yes, use my phone number. It’s 415-555-2678.
+user: I have your phone number as 415-555-2678 and your date of birth as March 14th, 1992. Is that correct?
+assistant: Yes, that’s correct, and I’d like to schedule an appointment.
+user: Please confirm your date of birth one more time.
+assistant: March 14, 1992.
+user: Something's not right. I can't access your record at the moment. I'll make sure our clinic support team follows up with you. Please hold while I document this for follow-up.
+assistant: Okay, thanks
+user: Connecting you to a representative. Please wait.
+assistant: Thanks,
+user: Hello, you've reached the Pretty Good AI test line. Goodbye.
+assistant: Okay, thanks for the update. Bye.

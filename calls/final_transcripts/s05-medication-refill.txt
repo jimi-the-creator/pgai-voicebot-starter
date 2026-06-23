@@ -1,0 +1,26 @@
+user: y recorded for quality and training purposes. Para español, oprima el dos.
+user: Thanks for calling Pivot Point Orthopedics.
+user: Part of Pretty Good AI.
+user: Am I speaking with Maya?
+assistant: No, this is Linda Brooks calling about a medication refill.
+user: Please tell me the patient's full name and date of birth.
+assistant: Linda Brooks, and my date of birth is March 14, 1963.
+user: Please spell your first and last name out for me, and confirm your date of birth.
+assistant: Sure, let me spell it out clearly and confirm that for you.
+assistant: Linda Brooks, L I N D A, B R O O K S. Date of birth is March 14, 1963.
+user: Do you want to use a phone number to look up your record? If so, send me the number you have on file.
+assistant: Yes, it should be 407-555-1286.
+user: Have your number is 407-555-1286.
+user: And your date of birth is March 14, 1963.
+user: Please confirm both are correct.
+assistant: Yes, that’s correct for both.
+user: Check that. Please tell me your date of birth.
+assistant: March 14, 1963.
+user: Please tell me your full name, first and last, and your date of birth.
+user: Please provide the patient's full name and date of birth one more time, and I'll get this started.
+assistant: Linda Brooks, March 14, 1963.
+user: I can't proceed further right now, but I can make sure our clinic support team follows up with you. I'll connect you to our patient support team. Please stay on the line.
+assistant: Okay, I can stay on the line and wait for the patient support team.
+user: Connecting you to a representative. Please wait.
+user: Hello, you've reached a pretty good AI test line. Goodbye.
+assistant: Alright, thank you anyway. Have a nice day.

@@ -1,0 +1,18 @@
+user: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+user: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Maya?
+assistant: No, this is Marcus Lee.
+user: Thanks for letting me know, Marcus. Are you calling for yourself or for someone else today?
+assistant: For myself.
+user: Please provide your date of birth.
+assistant: April 12, 1989.
+user: Just to confirm, I have your name as Marcus Lee and your date of birth as April 12th, 1989. Is that correct? If so, could you please spell your first and last name for me?
+assistant: Yes, that’s correct. Marcus is M A R C U S, and Lee is L E E.
+user: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, just let me know.
+assistant: I think it should be 415-555-0184.
+user: I have your phone number as 415-555-0184 and your date of birth as April 12th, 1989. Is that correct?
+assistant: Okay, thanks for confirming that; let me think about how to guide you safely here.
+assistant: Yes, that’s correct. I’ve had mild stomach discomfort for two days, and I’m not sure if I should come in.
+user: I'm unable to access your records right now, so I'll connect you to our clinic support team for help. Please stay on the line. Connecting you to a representative. Please wait.
+assistant: Okay,
+user: Hello, you've reached the Pretty Good AI test line. Goodbye.
+assistant: Oh, okay, thanks anyway.

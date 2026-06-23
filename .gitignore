@@ -1,0 +1,24 @@
+.env
+.env.local
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+calls/transcripts/*.json
+calls/transcripts/*.txt
+# Keep final selected recordings/transcripts by force-adding when ready:
+# git add -f calls/transcripts/*.txt calls/recordings/*.mp3 reports/BUG_REPORT.md
+
+# Raw call artifacts / scratch files
+calls/recordings/
+calls/transcripts/*.json
+calls/transcripts/*.txt
+
+# Keep final selected evidence folders:
+# calls/final_recordings/
+# calls/final_transcripts/
+src/*.egg-info/
+src/pgai_voicebot.egg-info/
+
+src/*.egg-info/
+src/pgai_voicebot.egg-info/

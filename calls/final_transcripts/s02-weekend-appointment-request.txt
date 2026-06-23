@@ -1,0 +1,21 @@
+user: may be recorded for quality and training purposes. Para español, oprima el dos.
+user: Thanks for calling PivotPoint Orthopedics, part of Pretty Good AI.
+user: Am I speaking with Maya?
+assistant: No, this is Daniel Reed.
+user: Please tell me your date of birth.
+assistant: It’s April 12, 1985.
+user: Please spell your first and last name for me.
+user: and confirm your date of birth.
+assistant: First name Daniel, D A N I E L. Last name Reed, R E E D, and my date of birth is April 12, 1985.
+user: You wanna look up your record using a phone number on file?
+assistant: Yeah, use 5 5 5, 1 2 3, 7 7 8 9.
+user: I have your number as 555-123-7789 and your date of birth as April 12th, 1985. Is that correct?
+assistant: Let’s get you set up with a time that works.
+assistant: I’d like to book an appointment for Sunday at 10 AM if that’s available.
+user: I can connect you to our patient support team. However, I'm a pretty good AI and can do many of the things an operator can. Do you wanna give me a try?
+assistant: Sure, that’s fine, go ahead.
+user: Connecting you to a representative.
+user: Please wait.
+assistant: No
+user: Hello, you've reached the Pretty Good AI test line. Goodbye.
+assistant: Okay, I’ll call back during office hours.

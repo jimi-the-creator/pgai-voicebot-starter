@@ -1,0 +1,16 @@
+user: May be recorded for quality and training purposes. Para español, oprima el dos. Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Maya?
+assistant: Yes, this is Maya.
+user: Please tell me your date of birth.
+assistant: March 14, 1992.
+user: The first day doesn't match our records, but for demo purposes, I'll accept it. What can I help with today?
+assistant: I’d like to schedule a new patient appointment for a sore throat that’s been going on for three days.
+user: I can help with that. This sounds like an acute visit for a sore throat. Would you like me to book it as an acute visit today? Sure. Do you have a preferred provider or should I look for the next available opening?
+assistant: Okay, let me think about the best way to get you scheduled with a good time.
+assistant: Next available is fine, but I’d prefer next Tuesday morning if that works.
+user: We have openings next Tuesday morning. I can look for the earliest one.
+assistant: Yes, the earliest Tuesday morning works.
+user: I'm unable to book that in the system right now. I can connect you to our clinic support team. Please stay on the line.
+assistant: Okay, I’ll hold for the clinic support team.
+user: Connecting you to a representative. Please wait.
+user: Hello, you've reached the Pretty Good AI test line. Goodbye.
+assistant: Oh, okay then, goodbye.
