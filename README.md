@@ -16,6 +16,7 @@ Office logistics, such as address, hours, parking, and Saturday availability
 Ambiguous symptom calls
 Emergency escalation
 Patient corrections and interruptions
+
 Tech Stack
 Python
 LiveKit Agents
@@ -23,6 +24,7 @@ LiveKit SIP / Dispatch
 Telnyx outbound SIP trunk
 OpenAI Realtime voice model
 LiveKit Agent Observability for recordings and transcripts
+
 How It Works
 A scenario is selected, such as s03 for rescheduling an appointment.
 The Python agent joins a LiveKit room.
