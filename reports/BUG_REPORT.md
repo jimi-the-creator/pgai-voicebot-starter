@@ -25,7 +25,7 @@ Finding 1 — Over-escalation instead of completing common workflows
 
 Observed in: s01, s02, s03, s04, s07, s08, s10
 
-Across multiple routine scenarios, the agent moved to clinic support escalation instead of completing or meaningfully advancing the workflow.
+Across multiple different call scenarios, the AI agent moved to clinic support escalation instead of just completing or meaningfully advancing the workflow.
 
 Examples:
 
