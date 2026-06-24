@@ -126,3 +126,9 @@ Dispatch one scenario:
 Valid scenario IDs:
 
 `s01, s02, s03, s04, s05, s06, s07, s08, s09, s10`
+
+## Video Walkthroughs
+
+Project walkthrough Loom: https://www.loom.com/share/ccf96a76954c412aa133fed3f155f249
+
+AI debugging / iteration walkthrough Loom: [add second Loom link here]
