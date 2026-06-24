@@ -131,4 +131,4 @@ Valid scenario IDs:
 
 Project walkthrough Loom: https://www.loom.com/share/ccf96a76954c412aa133fed3f155f249
 
-AI debugging / iteration walkthrough Loom: [add second Loom link here]
+Enginnering problem walkthrough: https://www.loom.com/share/9f693e9bd7294d8a92334e491e292834
